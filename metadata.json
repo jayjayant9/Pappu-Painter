@@ -1,0 +1,6 @@
+{
+  "name": "Pappu Painter - Retro Indian Signboard Studio & Radio",
+  "description": "A nostalgic tribute to vintage Indian hand-painted signboards, street art, and studio radio vibes with ambient soundscapes and curated playlists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
